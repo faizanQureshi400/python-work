@@ -9,3 +9,5 @@ st.write(df)
 
 # or
 df  #magic comments
+st.area_chart(df)
+st.sidebar.bar_chart(df)
